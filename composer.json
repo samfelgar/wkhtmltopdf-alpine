@@ -1,0 +1,15 @@
+{
+    "name": "samfelgar/wkhtmltopdf-alpine",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Samuel Felipe",
+            "email": "samfelgar@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/wkhtmltopdf",
+        "bin/wkhtmltoimage"
+    ]
+}

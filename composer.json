@@ -1,6 +1,7 @@
 {
     "name": "samfelgar/wkhtmltopdf-alpine",
     "type": "library",
+    "keywords": ["pdf", "alpine", "wkhtmltopdf", "convert", "binary", "image"],
     "authors": [
         {
             "name": "Samuel Felipe",
